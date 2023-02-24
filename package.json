@@ -1,0 +1,25 @@
+{
+  "name": "webpage-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maks6831/node-webpage-creator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maks6831/node-webpage-creator/issues"
+  },
+  "homepage": "https://github.com/Maks6831/node-webpage-creator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.1.4"
+  }
+}
